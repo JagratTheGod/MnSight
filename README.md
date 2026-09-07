@@ -85,7 +85,7 @@ $$\text{Total Inferred Tonnage (MT)} = \sum_{k} \left( V_k \times \rho_k \right)
 ### Local Setup
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/JagratTheGod/MnSight.git](https://github.com/JagratTheGod/MnSight.git
+git clone [https://github.com/JagratTheGod/MnSight.git](https://github.com/JagratTheGod/MnSight.git)
 cd MnSight
 
 # 2. Create virtual environment
