@@ -1,4 +1,4 @@
-# 🛰️ Khanij-Drishti (खनिज-दृष्टि)
+# 🛰️ MnSight
 > **Enterprise Spaceborne AI Hub for Critical Mineral Prospectivity & 3D Subsurface Reserve Estimation**
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110.0-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
@@ -11,7 +11,7 @@
 ## 📌 Executive Overview
 India’s **National Critical Mineral Mission** demands rapid acceleration in strategic mineral exploration. Traditional ground geophysical surveys and exploratory core drilling take years and cost crores across thousands of square kilometers.
 
-**Khanij-Drishti** bridges greenfield satellite remote sensing and brownfield subsurface reserve estimation by combining:
+**MnSight** bridges greenfield satellite remote sensing and brownfield subsurface reserve estimation by combining:
 1. **Multi-Spectral Spaceborne Analytics** (Sentinel-2 band ratioing for hydrothermal & oxide alteration)
 2. **Spatial Graph Neural Networks (GNN)** to propagate mineralization along tectonic shear lineaments
 3. **Target-Specific 3D Inversion Block Modeling** ($x, y, z$) to calculate in-situ tonnage ($MT$), average grade ($\% Mn$), and stripping ratios
@@ -85,8 +85,8 @@ $$\text{Total Inferred Tonnage (MT)} = \sum_{k} \left( V_k \times \rho_k \right)
 ### Local Setup
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/Nerdalways/Khanij-Drishti-AI.git](https://github.com/Nerdalways/Khanij-Drishti-AI.git)
-cd Khanij-Drishti-AI
+git clone [https://github.com/JagratTheGod/MnSight.git](https://github.com/JagratTheGod/MnSight.git
+cd MnSight
 
 # 2. Create virtual environment
 python -m venv venv
